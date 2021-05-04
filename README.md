@@ -8,5 +8,5 @@ Question:Please write a simple java program that can generate 5000 UNIQUE alphan
  
 Example code: B45A7Z
 
-output code: AlphaNumeric5000.java
-sample output: unique 5000
+# output code: AlphaNumeric5000.java
+# sample output: unique 5000
